@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/abdullahalazmi/Programming/Lang_Bridge/c-cpp-tutorials/C",
-      "program": "/home/abdullahalazmi/Programming/Lang_Bridge/c-cpp-tutorials/C/build/Debug/outDebug",
+      "cwd": "/home/abdullahalazmi/Programming/Lang_Bridge/c-cpp-tutorials/Problem_Solving_C",
+      "program": "/home/abdullahalazmi/Programming/Lang_Bridge/c-cpp-tutorials/Problem_Solving_C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
